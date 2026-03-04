@@ -1,9 +1,9 @@
-# 🚗 Autonomous Driving Engineering Portfolio
+# 🚗 ADAS & AD Portfolio
 
-**Complete Full-Stack AV Portfolio: 6 End-to-End Projects covering Perception, Planning, Control, and Deep Learning.**
+**Complete Full-Stack ADAS & AV Portfolio: 6 End-to-End Projects covering Perception, Planning, Control, and Deep Learning.**
 
-> 🇩🇪 **Based in Germany** | Open to ADAS, Motion Planning, and Autonomous Driving Engineering roles.  
-> 🎓 **Masters in Automotive Engineering** | All projects open-source with production-ready code.
+> | Open to ADAS, Motion Planning, and Autonomous Driving Engineering roles.  
+> 🎓 **Masters student in Automotive Engineering** | All projects open-source with production-ready code.
 
 [📄 Download PDF Portfolio](assets/Vijay_ADAS_AV_Portfolio.pdf.pdf) • [📧 Contact](vijaypriyanayyaru@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/vijay-priyan-ayyaru/)
 
@@ -11,7 +11,7 @@
 
 ## 📊 Portfolio Overview
 
-I've built **6 complete autonomous driving systems**, each tackling a different layer of the AV stack. This demonstrates **breadth** across all domains and **depth** in multiple specializations.
+I've built **6 complete ADAS & AD systems**, each tackling a different layer of the AV stack. This demonstrates **breadth** across all domains and **depth** in multiple specializations.
 
 | # | Project | Domain | Key Achievement | Tech Stack |
 |---|---------|--------|-----------------|------------|
@@ -26,7 +26,7 @@ I've built **6 complete autonomous driving systems**, each tackling a different 
 
 ## 🎯 Skills Matrix
 
-This portfolio demonstrates competence across the **full autonomous driving stack**:
+This portfolio demonstrates competence across the **advanced driver assistant system and autonomous driving stack**:
 
 - Perception ████████████████████ (NeuroBrake, Traffic Signs)
 - Planning ████████████████████ (FSM, Motion Planning, PPO)
