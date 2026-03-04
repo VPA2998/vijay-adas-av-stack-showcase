@@ -310,7 +310,7 @@ python src/main.py  # If available
 ### 📄 PDF Portfolio
 For a downloadable version with detailed project pages, metrics, and visuals:
 
-📥 Download PDF Portfolio (Link will be added once PDF is created)
+📥 [Download PDF Portfolio] (assets/Vijay_ADAS_AV_Portfolio.pdf.pdf)
 
 The PDF includes:
 
@@ -320,9 +320,6 @@ The PDF includes:
 
 - One page per project (problem, solution, metrics, images)
 
-- Education and certifications
-
-- References
 ---
 
 ### 📧 Contact
