@@ -5,7 +5,7 @@
 > 🇩🇪 **Based in Germany** | Open to ADAS, Motion Planning, and Autonomous Driving Engineering roles.  
 > 🎓 **Masters in Automotive Engineering** | All projects open-source with production-ready code.
 
-[📄 Download PDF Portfolio](#-pdf-portfolio) • [📧 Contact](vijaypriyanayyaru@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/vijay-priyan-ayyaru/)
+[📄 Download PDF Portfolio](assets/Vijay_ADAS_AV_Portfolio.pdf.pdf) • [📧 Contact](vijaypriyanayyaru@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/vijay-priyan-ayyaru/)
 
 ---
 
